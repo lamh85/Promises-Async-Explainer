@@ -29,6 +29,14 @@ thisFunctionReturnsPromsie()
     // Do something with the result.failureMessage
   })
 
+
+// How does async and await compare?
+// How to wrap the function call inside an async function:
+
+const callPromise = async () => {
+  
+}
+
 // What does `new Promise` produce?
 // An object like this:
 {
